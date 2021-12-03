@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "name": "Siyaram",
+      "email": "siyaram@gmail.com",
+      "assign":"front-end",
+      "id": 1
+    },
+    {
+       "name": "durga",
+      "email": "durga@gmail.com",
+      "assign":"content writer",
+      "id": 1
+    },
+    {
+       "name": "vrishank",
+      "email": "vrishank@gmail.com",
+      "assign":"front-end",
+      "id": 3
+    },
+    
+  ]
+}

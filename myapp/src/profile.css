@@ -1,0 +1,52 @@
+
+body{
+    background-color: lightblue;
+}
+.mycontainer{
+    margin:auto;
+    width:80%;
+    margin-top:20px;
+}
+
+ul{
+    background:rgb(4, 4, 77);
+    margin:0px;
+    display:flex;
+    justify-content: center;
+    border-radius:5px;
+  }
+  
+  ul li{
+    padding:17px;
+    color:white;
+    list-style-type:none;
+  }
+  
+  ul li:hover{
+    background:greenyellow;
+    cursor: pointer;
+  }
+
+  ul li:hover .pagelink{
+    color: red;
+  }
+
+  .pagelink{
+    color:white;
+    text-decoration:none;
+  }
+
+ #pagedata{
+     text-align:center;
+     margin-top:10px;
+     color:indianred;
+     min-height:400px;
+     background-color: lightgoldenrodyellow;
+     padding-top:30px;
+ }
+
+ #author{
+    color:rgb(48, 12, 145);
+    text-align:center;
+    margin-top:270px;
+ }

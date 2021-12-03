@@ -1,0 +1,14 @@
+{
+    "article": [
+        {
+            "id": "12346",
+            "provider": "Mindtouch",
+            "title": "kaka test",
+            "content": "This guide provides an overview of product features and related technologies",
+            "tag": [
+                "test",
+                "coffee maker"
+            ]
+        }
+    ]
+}

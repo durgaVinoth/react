@@ -1,0 +1,22 @@
+https://zetcode.com/javascript/jsonserver/
+1. create a folder api 
+2. open cmd in api folder 
+3. npm install -g json-server      (run in cmd)
+4. create a file article.json      (create using editor)
+	{
+		"article": [
+			{
+				"id": "12346",
+				"provider": "Mindtouch",
+				"title": "kaka test",
+				"content": "This guide provides an overview of product features and related technologies",
+				"tag": [
+					"test",
+					"coffee maker"
+				]
+			}
+		]
+	}
+5. json-server --watch article.json --port 3002       (run in cmd)
+6. http://localhost:3002/article                      (run in browser)
+
